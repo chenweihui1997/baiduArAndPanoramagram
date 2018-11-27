@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name_demo">百度AR-全景图</string>
+    <string name="app_operate">AR 景区</string>
+    <string name="app_explore">AR 识楼</string>
+    <string name="app_find">AR 根据条件检索周边POI</string>
+    <string name="app_custom">AR 自定义单点数据</string>
+    <string name="app_custom_more">AR 自定义多点数据</string>
+    <string name="app_qjt">自定义搜索"全景图"</string>
+    <string name="app_tag_ts">输入要查询的标签如:美食、公司、厕所/必填</string>
+    <string name="app_radius_ts">输入要查询的附近范围半径如:500/必填</string>
+    <string name="app_pageNum_ts">输入要展示哪一页POI数据(0表示第一页)/必填</string>
+    <string name="app_lon">lon : 116.300784/必填</string>
+    <string name="app_lat">lat : 40.082545/必填</string>
+    <string name="app_name">自定义单点数据name</string>
+</resources>

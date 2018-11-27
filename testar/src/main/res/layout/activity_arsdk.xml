@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="15dp"
+            android:orientation="vertical"
+            android:focusableInTouchMode="true">
+
+            <EditText
+                android:textSize="15sp"
+                android:id="@+id/custom_category"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/app_name" />
+
+            <EditText
+                android:textSize="15sp"
+                android:id="@+id/lat"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="numberDecimal"
+                android:hint="@string/app_lat" />
+
+            <EditText
+                android:textSize="15sp"
+                android:id="@+id/lon"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="numberDecimal"
+                android:hint="@string/app_lon" />
+
+            <Button
+                android:textSize="15sp"
+                android:id="@+id/app_custom"
+                android:text="@string/app_custom"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:textSize="15sp"
+                android:id="@+id/app_more_custompoint"
+                android:text="@string/app_custom_more"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:textSize="15sp"
+                android:id="@+id/app_operate"
+                android:text="@string/app_operate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:textSize="15sp"
+                android:id="@+id/app_explore"
+                android:text="@string/app_explore"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:textSize="15sp"
+                android:id="@+id/app_qjt"
+                android:text="@string/app_qjt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:textSize="15sp"
+                android:id="@+id/app_find"
+                android:text="@string/app_find"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <EditText
+                android:textSize="15sp"
+                android:id="@+id/category"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/app_tag_ts" />
+
+            <EditText
+                android:textSize="15sp"
+                android:id="@+id/radius"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:hint="@string/app_radius_ts" />
+
+            <EditText
+                android:textSize="15sp"
+                android:id="@+id/pageNum"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:hint="@string/app_pageNum_ts" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
