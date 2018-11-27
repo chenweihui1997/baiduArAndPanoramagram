@@ -10,9 +10,15 @@ Dome中还使用到了实时定位、POI检索、地点检索输入提示服务�
 
 Dome主要功能有：根据用户输入条件检索周边POI并使用AR展示、自定义地点检索查询街景图相册
 
-https://github.com/chenweihui1997/baiduArAndPanoramagram/blob/master/%E7%99%BE%E5%BA%A6AR-%E5%85%A8%E6%99%AF%E5%9B%BE%E5%88%86%E4%BA%AB.doc
+## Download
+model share document download url:
 
-## 应用截图
+https://github.com/chenweihui1997/baiduArAndPanoramagram/releases/download/1/baiduArAndPShare.doc
+
+baiduArAndPanoramagram android app download url:
+
+https://github.com/chenweihui1997/baiduArAndPanoramagram/releases/download/1/baiduARAndPanoramagram.apk
+## App Imgs
 ![image](https://github.com/chenweihui1997/baiduArAndPanoramagram/blob/master/2018-11-27-11-16-11.png)
 ![image](https://github.com/chenweihui1997/baiduArAndPanoramagram/blob/master/2018-11-27-11-16-59.png)
 ![image](https://github.com/chenweihui1997/baiduArAndPanoramagram/blob/master/2018-11-27-11-17-42.png)
